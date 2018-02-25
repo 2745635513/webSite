@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context>
+	<Resource
+		name="jdbc/oracle"
+		type="javax.sql.DataSource"
+		username="scott"
+		password="123456"
+		url="jdbc:oracle:thin:@localhost:1521:orcl"	
+		driverClassName="oracle.jdbc.driver.OracleDriver">
+	
+	</Resource>
+	<WatchedResource>WEB-INF/web.xml</WatchedResource>
+
+</Context>

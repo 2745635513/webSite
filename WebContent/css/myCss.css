@@ -1,0 +1,29 @@
+@CHARSET "UTF-8";
+.title {
+	font-size:20px;
+	}
+	.red{
+		color:red;
+	}
+	.table {
+	width:80%;
+	}
+	.center {
+	text-align:center;
+	}
+	.small {
+	font-size:10px;
+	}
+	.right {
+		text-align:right;
+	}
+	.dash {
+		border:dashed 1px;
+		height:18px;
+		width:300px;
+	}
+	.dash_short {
+		border:dashed 1px;
+		height:18px;
+		width:100px;
+	}
